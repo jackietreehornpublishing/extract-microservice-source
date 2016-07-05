@@ -1,0 +1,39 @@
+Template info:
+
+Group: jackietreehornpublishing
+Name: treehorn-spring-rest-microservice
+Version 1.0.0-SNAPSHOT
+
+Backing GitHub repo:
+Owner: jackietreehornpublishing
+Repo: treehorn-spring-rest-microservice
+Branch: master
+Path (within repo): 
+sha: c63a4f3aaeb939acdbba010f553fbff480869769
+
+
+Parameter values (passed in on template invocation):
+description='"showing how it's done"'
+package_name='com.jackietreehornpublishing'
+team-id='T1KHULA3E'
+name='extract-microservice-source'
+template='treehorn-spring-rest-microservice'
+user-id='U1KGQ9YGK'
+group_id='jackietreehornpublishing'
+org='jackietreehornpublishing'
+version='0.0.1'
+artifact_id='extract-microservice-source'
+visibility='public'
+
+Computed parameter values (computed based on parameter values passed in):
+date_time='05 07 2016 '
+configuration_class_name='ExtractMicroserviceSourceConfiguration'
+package_path='com/jackietreehornpublishing'
+base_source_path='src/main/java'
+base_test_path='src/test/java'
+application_name='ExtractMicroserviceSource'
+containerless_web_integration_test_name='ExtractMicroserviceSourceOutOfContainerIntegrationTests'
+application_class_name='ExtractMicroserviceSourceApplication'
+startup_test_name='ExtractMicroserviceSourceApplicationTests'
+web_integration_test_name='ExtractMicroserviceSourceWebIntegrationTests'
+creation_date='Tue Jul 05 2016 14:46:18 GMT+0000 (UTC)'
